@@ -1,16 +1,33 @@
-### Hi there 👋
+Here are some of the projects that I'm working on:
 
-<!--
-**rndsrc/rndsrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [`lux`](https://github.com/luxsrc)
 
-Here are some ideas to get you started:
+High-performance scientific computation algorithms that automatically
+adapt to different hardware architectures.
+Codes are mainly written in `C` and `C++` targeting high performance
+computing systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [AutoDiffX](https://github.com/adxsrc)
+
+Automatic Differentiation for X.
+Using Google and DeepMind's JAX ecosystem for other applications,
+including simulations in astrophysics.
+
+# [Project Laniakea (`L6a`)](https://github.com/l6a)
+
+Tools for hybrid cloud-HPC computing.
+Codes are written in `bash` and `python` aiming to enable
+multi-cloud/HPC workflows.
+
+# [AstroContainers](https://github.com/astcon)
+
+A community-driven project to create and manage astronomical and
+astrophysical software containers.
+
+# [Project `Foci`](https://github.com/focisrc)
+
+High-performance computational interferometry algorithms in Python.
+
+# [`BlackHolePy`](https://github.com/blackholepy)
+
+Python for Black Hole Astrophysics.
